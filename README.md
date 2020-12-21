@@ -2,6 +2,11 @@
 
 ## Service by service
 
+- [Emails](#emails)
+- [Search Engine](#search-engine)
+- [Passwords Manager](#passwords-manager)
+- [Web Browser](#web-browser)
+
 ### Emails
 
 To get rid of **Gmail**, you will need : 
@@ -20,7 +25,9 @@ The services I use for MIAB :
 
 ##### Mobile (Android)
 
-Currently trying [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark&hl=fr&gl=US)
+Currently testing [BlueMail](https://play.google.com/store/apps/details?id=me.bluemail.mail&hl=fr&gl=US)
+
+(Have tested Spark and ProtonMail but couldn't add a personal email domain)
 
 ##### Desktop (Linux)
 
